@@ -2,9 +2,13 @@
 
 * Medidas clássicas ou referências de livros:
 Accuracy
+
 Precision
+
 Recall
+
 F-score
+
 Receiver Operating Characteristic Curve (ROC) and Area Under the Curve (AUC)
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
