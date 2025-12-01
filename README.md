@@ -1,13 +1,10 @@
 # A lista das métricas é:
 
 * Medidas clássicas ou referências de livros:
-Accuracy
-
-Precision
-
-Recall
-
-F-score
+Accuracy\n
+Precision\n
+Recall\n
+F-score\n
 
 Receiver Operating Characteristic Curve (ROC) and Area Under the Curve (AUC)
 Mean Squared Error (MSE)
